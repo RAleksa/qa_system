@@ -1,2 +1,1 @@
-# qa_system
-Simple Question Answering System
+## Простая вопросно-ответная система
